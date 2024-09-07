@@ -1,0 +1,47 @@
+﻿  main.cpp
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(53,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(53,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(57,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(57,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(81,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(82,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(69,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(79,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(117,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(118,18): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(120,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(145,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(145,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(146,26): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(146,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(148,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(148,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(149,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(149,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(151,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(151,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(152,28): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(152,12): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(170,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(170,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(174,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(174,19): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(178,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(178,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(181,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(181,18): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(195,36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(207,50): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(211,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(227,21): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(272,20): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(273,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(304,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(304,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(308,33): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(308,20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(292,8): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(321,13): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(332,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\main.cpp(363,16): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Planes_Army_Finished.vcxproj -> C:\Users\mobai\Desktop\Temp-Files\大作业备份\Project\Project\Planes_Army_Finished\x64\Debug\Planes_Army_Finished.exe
